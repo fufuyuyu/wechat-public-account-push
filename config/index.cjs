@@ -21,11 +21,11 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '亲爱的！',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ow-cv5mVfVEtceUT941wZwleCCd8',
+      id: 'ow-cv5nRkpm0UC4SyTYQ1bRnrKbg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'zOfNJ7fvav_273YFHLvLUV3di8SjnAau_Db5HaHYZFQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '02-26',
+      //horoscopeDate: '02-26',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
